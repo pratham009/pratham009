@@ -80,12 +80,12 @@ Data-focused Software Engineer with a Master's in Electrical and Computer Engine
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prathamvichare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamvichare&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratham009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham009&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamvichare&theme=tokyonight" alt="prathamvichare" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham009&theme=tokyonight" alt="prathamvichare" />
 </div>
 
 ---
